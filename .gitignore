@@ -1,0 +1,8 @@
+# ROM 파일은 절대 올리지 않습니다
+*.gba
+*.gb
+*.gbc
+*.sav
+*.sav.*
+*.srm
+*.zip
